@@ -36,7 +36,7 @@ const SignIn = {
           <label for="password">Password</label>
         </div>
         <button class="signin-btn" type="submit">Sign In</button>
-        <div class="akun">Tidak punya akun? <a href="#/register">Register</a></div>
+        <div class="akun">Don't have an account? <a href="#/register">Sign Up</a></div>
       </form>
     </div>
   </div>
